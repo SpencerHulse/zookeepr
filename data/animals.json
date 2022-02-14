@@ -127,6 +127,16 @@
         "goofy"
       ],
       "id": "12"
+    },
+    {
+      "name": "Amy",
+      "species": "Elephant",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
